@@ -1,0 +1,28 @@
+<resources>
+  <string name="app_name">Media Library</string>
+  <string name="user_avatar_content_description">Movie poster</string>
+  <string name="search_placeholder">Search Media…</string>
+  <string name="search_button">Search</string>
+  <string name="empty_state_format">No media found.</string>
+  <string name="initial_state">Enter the name of the media you want to search for.</string>
+  <string name="movie_label_name"><b>Name</b></string>
+  <string name="movie_label_year"><b>Release Date</b></string>
+  <string name="movie_label_rating"><b>Rating</b></string>
+  <string name="movie_label_runtime"><b>Runtime</b></string>
+  <string name="movie_label_genre"><b>Genre</b></string>
+  <string name="movie_label_director"><b>Director</b></string>
+  <string name="movie_label_writers"><b>Writer(s)</b></string>
+  <string name="movie_label_actors"><b>Actor(s)</b></string>
+  <string name="movie_label_plot"><b>Plot</b></string>
+  <string name="movie_label_language"><b>Language(s)</b></string>
+  <string name="movie_label_country"><b>Country</b></string>
+  <string name="movie_label_awards"><b>Awards</b></string>
+  <string name="movie_label_metascore"><b>Metascore</b></string>
+  <string name="movie_label_imdb_rating"><b>IMDd Rating</b></string>
+  <string name="movie_label_imdb_votes"><b>IMDb Votes</b></string>
+  <string name="movie_label_type"><b>Type</b></string>
+  <string name="movie_label_dvd_release_date"><b>DVD Release Date</b></string>
+  <string name="movie_label_box_office"><b>Box Office Revenue</b></string>
+  <string name="movie_label_production"><b>Production</b></string>
+  <string name="movie_label_website"><b>Website</b></string>
+</resources>
