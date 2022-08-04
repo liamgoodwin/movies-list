@@ -7,7 +7,7 @@ This project features the following:
 * Responsive UI w/ ConstraintLayout
 
 ### OMDb API Key
-You will need to provide your own API key to successfully get this application running locally. You can visit the website here: http://www.omdbapi.com/ and request your own API key. It's completely free and should only take a few minutes.
+You will need to provide your own API key to successfully get this application running locally. You can visit the website [here](http://www.omdbapi.com/) and request your own API key. You can make 1000 requests per day. It's completely free and should only take a few minutes.
 
 Once you have your API key you'll want to open the `java/com/liamgoodwin/movieslist/util/Constants.kt` file and set it as the value of the `OMDB_API_KEY` variable.
 
