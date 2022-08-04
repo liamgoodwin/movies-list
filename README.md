@@ -6,6 +6,11 @@ This project features the following:
 * LiveData & Coroutines
 * Responsive UI w/ ConstraintLayout
 
+### OMDb API Key
+You will need to provide your own API key to successfully get this application running locally. You can visit the website here: http://www.omdbapi.com/ and request your own API key. It's completely free and should only take a few minutes.
+
+Once you have your API key you'll want to open the `java/com/liamgoodwin/movieslist/util/Constants.kt` file and set it as the value of the `OMDB_API_KEY` variable.
+
 ### Running the project
 1. Open the project in Android Studio.
 2. Open the 'Build Variants' tab and ensure you have the `:app` module set to `debug`.
